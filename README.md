@@ -23,3 +23,13 @@ Telegram API: Используется для взаимодействия с п
 
 ## Заключение
 Бот-менеджер проектов — это полезный инструмент для всех, кто хочет эффективно управлять своими проектами и задачами. Он предоставляет простой и удобный способ хранения и организации информации, что позволяет пользователям сосредоточиться на выполнении своих задач.
+
+
+## СКРИНШОТЫ
+
+https://drive.google.com/file/d/1j7D2-4wbX680k2ywkQSdoXKEAmw9Xjhj/view?usp=drive_link
+https://drive.google.com/file/d/17XotwUkz0r2dCYsLhglM7jl4WeAtl2PN/view?usp=drive_link
+https://drive.google.com/file/d/1gxZGAuWR9BGvS839muezO9Nbx8o7mPub/view?usp=drive_link
+https://drive.google.com/file/d/1rpJsOXWZtF8tt3PKOoff3nU6OKl_LRyW/view?usp=drive_link
+https://drive.google.com/file/d/1lvlvsHxap_oi7LA9gpgI6wyXZKkrB6wH/view?usp=drive_link
+https://drive.google.com/file/d/1RUM7CXKTzA2PYeR6g27plHagc5b_SA3P/view?usp=drive_link
