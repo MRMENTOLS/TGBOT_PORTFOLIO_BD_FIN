@@ -27,6 +27,12 @@ Telegram API: Используется для взаимодействия с п
 
 ## СКРИНШОТЫ
 
+![image](https://github.com/user-attachments/assets/6825cc7c-b210-400d-a766-b7262dfd74bc)
+![image](https://github.com/user-attachments/assets/36b06cf9-b4a9-4a5d-82b4-77189bddb71c)
+![image](https://github.com/user-attachments/assets/1bbce884-cc9c-4da7-8ae7-d46d3622db53)
+![image](https://github.com/user-attachments/assets/7437a804-dee5-447b-95b7-2222022b21b3)
+![image](https://github.com/user-attachments/assets/2d8d4b26-cc5f-45d7-88a6-2fe9b1d9b53d)
+
 https://drive.google.com/file/d/1j7D2-4wbX680k2ywkQSdoXKEAmw9Xjhj/view?usp=drive_link
 https://drive.google.com/file/d/17XotwUkz0r2dCYsLhglM7jl4WeAtl2PN/view?usp=drive_link
 https://drive.google.com/file/d/1gxZGAuWR9BGvS839muezO9Nbx8o7mPub/view?usp=drive_link
